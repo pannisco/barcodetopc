@@ -7,4 +7,4 @@ App windows:
 <br>
 App android:
 <br>
-![android](https://github.com/pannisco/barcodetopc/blob/main/Screenshot_20250713-212829.png?raw=true {width=480px height=360px})
+<img src="https://github.com/pannisco/barcodetopc/blob/main/Screenshot_20250713-212829.png?raw=true" width="48">
